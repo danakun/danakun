@@ -19,7 +19,7 @@
 
 - 📄 Building my community on [https://discord.com/channels/1166307926810562590/1166307927695573026](https://discord.com/channels/1166307926810562590/1166307927695573026)
 
-- ⚡ Volunteer at **casafelisa.co** ([danakun.com](https://www.casafelisa.co/))
+- ⚡ Volunteer at **casafelisa.co** (https://www.casafelisa.co/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
