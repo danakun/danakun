@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Mentorship platform](https://github.com/bcatone/PersonalPowerAI)
 
-- 👨‍💻 All of my projects are available at [danakun.com](danakun.com)
+- 👨‍💻 My projects are available at [danakun.com](https://danakun.github.io/portfolio/)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/danakun/](https://www.linkedin.com/in/danakun/)
 
@@ -19,7 +19,7 @@
 
 - 📄 Building my community on [https://discord.com/channels/1166307926810562590/1166307927695573026](https://discord.com/channels/1166307926810562590/1166307927695573026)
 
-- ⚡ Volunteer at **casafelisa.co**
+- ⚡ Volunteer at **casafelisa.co** ([danakun.com](https://www.casafelisa.co/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
