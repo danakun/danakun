@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PersonalPowerAI](https://github.com/bcatone/PersonalPowerAI)
 
-- 🌱 I’m currently learning **TypeScript, Next.js ,Prismic, PostgreSQL**
+- 🌱 I’m currently learning **TypeScript, Next.js**
 
 - 👯 Funniest project I did [Jiffy](https://github.com/danakun/jiffy-api)
 
