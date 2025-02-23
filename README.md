@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dana Kun</h1>
-<h3 align="center">Junior Front-End Developer | Crafting Exceptional Web Experiences</h3>
+<h3 align="center">MERN Developer, focused on Front-End | Crafting Exceptional Web Experiences</h3>
 
-- 🔭 I’m currently working on [PersonalPowerAI](https://github.com/bcatone/PersonalPowerAI)
-
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently into **TypeScript, Next.js, Node.js, Python**
 
 - 👯 Funniest project I did [Jiffy](https://github.com/danakun/jiffy-api)
 
